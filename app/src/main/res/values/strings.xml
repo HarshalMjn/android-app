@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Android App</string>
-    <string name="hello">Hello, Android!</string>
-    <string name="tap_me">Tap me</string>
-    <string name="tap_count">Taps: %1$d</string>
+    <string name="title_messages">Text messages</string>
+    <string name="permission_explanation">This app needs permission to read your text messages so it can show them here. Your messages stay on your phone.</string>
+    <string name="permission_denied_forever">SMS access is turned off. To see your messages, open Settings, tap Permissions, then SMS, and choose Allow.</string>
+    <string name="allow_access">Allow SMS access</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="no_messages">No text messages found.</string>
+    <string name="load_failed">Couldn\'t read your messages. Try again.</string>
+    <string name="unknown_sender">Unknown sender</string>
 </resources>
